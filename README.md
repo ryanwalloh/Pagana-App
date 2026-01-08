@@ -1,5 +1,6 @@
 Pagana-App
-Pagana is a specialized food delivery and logistics ecosystem built with Django, engineered specifically for Marawi City. Inspired by the Meranao tradition of Pagana, the highest form of hospitality, our platform bridges the gap between local culinary heritage and modern digital convenience.
+
+Pagana App is a specialized food delivery and logistics ecosystem built with Django, engineered specifically for Marawi City. Inspired by the Meranao tradition of Pagana, the highest form of hospitality, our platform bridges the gap between local culinary heritage and modern digital convenience.
 
 The Mission
 Marawi is a vibrant urban center that has remained underserved by the global digital delivery landscape. Pagana is designed to serve as the technological backbone for the city’s commerce, providing local vendors with the tools to reach customers and offering residents a reliable, streamlined ordering experience rooted in the spirit of service.

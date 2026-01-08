@@ -1,33 +1,32 @@
-FajrFood
-
-FajrFood is a specialized food delivery and logistics ecosystem built with Django, specifically engineered for Marawi City. As the first platform of its kind in the region, FajrFood bridges the gap between local culinary heritage and modern digital convenience.
+Pagana-App
+Pagana is a specialized food delivery and logistics ecosystem built with Django, engineered specifically for Marawi City. Inspired by the Meranao tradition of Pagana, the highest form of hospitality, our platform bridges the gap between local culinary heritage and modern digital convenience.
 
 The Mission
-Marawi remains a significant urban center that has yet to be integrated into the global digital delivery landscape. FajrFood is designed to serve as the technological backbone for the city’s commerce, providing local vendors with the tools to reach customers and offering residents a reliable, streamlined ordering experience for the first time.
+Marawi is a vibrant urban center that has remained underserved by the global digital delivery landscape. Pagana is designed to serve as the technological backbone for the city’s commerce, providing local vendors with the tools to reach customers and offering residents a reliable, streamlined ordering experience rooted in the spirit of service.
 
 Project Status: MVP Ready
-The platform has successfully reached its Minimum Viable Product (MVP) milestone. The core infrastructure is stable, secure, and ready for operational stress testing. Key features currently implemented include:
+The platform has successfully reached its Minimum Viable Product (MVP) milestone. The architecture is stable, secure, and ready for localized operational testing. Key features include:
 
-Vendor Management: Secure dashboards for local businesses to manage menus, pricing, and orders.
+Vendor Management: Secure dashboards for local businesses to manage menus, traditional pricing, and digital orders.
 
-Order Orchestration: A robust backend to handle real-time tracking and logistics via Django.
+Order Orchestration: A robust Django based backend designed to handle real-time tracking and logistics in the local geographical context.
 
-Localized UX: A user interface optimized for the specific geographical and cultural context of Marawi.
+Cultural Integration: A user interface that respects and highlights Marawi's unique identity and commerce patterns.
 
 2026 Roadmap
-We are currently in the pre-deployment phase, focusing on operational scaling, local rider networking, and regulatory alignment.
+We are currently in the pre-deployment phase, focusing on operational scaling and establishing a local logistics network.
 
-Q1-Q2 2026: Final beta testing and local rider onboarding.
+Q1 to Q2 2026: Final beta testing and local rider and partner onboarding.
 
 Q3 2026: Official deployment and shipment across Marawi City.
 
-Q4 2026: Expansion of logistics services beyond food delivery into general parcel services.
+Q4 2026: Expansion of services to include broader community driven logistics and parcel delivery.
 
-Investment & Partnership
-FajrFood is actively seeking investors and strategic partners to facilitate our 2026 launch. We are looking for contributors who are interested in:
+Investment and Partnership
+Pagana is actively seeking investors and strategic partners to facilitate our 2026 launch. We offer:
 
-First-mover advantage in a high-potential, untapped urban market.
+First Mover Advantage: Entry into a high potential, untapped urban market with zero existing delivery competition.
 
-Social impact through the digital transformation of local economies.
+Social Impact: A mission-driven approach to digitalize the local economy and create sustainable employment.
 
-Scalable tech, utilizing a professional Python/Django stack designed for growth.
+Modern Tech Stack: A professional, scalable Python and Django infrastructure designed for rapid growth.
